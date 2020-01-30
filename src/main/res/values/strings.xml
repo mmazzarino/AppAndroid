@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">My First App</string>
-    <string name="edit_message">Enter a message</string>
+    <string name="edit_message">Exemplo: 1500.99</string>
+    <string name="edit_message2">Exemplo: 12</string>
+    <string name="edit_message3">Exemplo: 5.5 para 5,5%</string>
     <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="textview5"></string>
+    <string name="textview6"></string>
+    <string name="textview7"></string>
+
+    <string name="textview9"></string>
 </resources>
